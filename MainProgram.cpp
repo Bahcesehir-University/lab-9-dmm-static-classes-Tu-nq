@@ -218,7 +218,7 @@ int IntArray::getCapacity() const {
 // isEmpty
 bool IntArray::isEmpty() const {
     // TODO 14: Return true if count == 0
-    return count == 0
+    return count == 0;
 }
 
 // Remove last element
